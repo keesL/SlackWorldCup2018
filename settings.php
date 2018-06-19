@@ -1,0 +1,4 @@
+<?php
+$token = '';
+$channel = 'worldcup';
+?>
